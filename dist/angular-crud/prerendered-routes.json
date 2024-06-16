@@ -1,0 +1,6 @@
+{
+  "routes": [
+    "/product-add",
+    "/product-list"
+  ]
+}
