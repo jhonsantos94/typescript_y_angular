@@ -1,5 +1,10 @@
 # AngularCrud
 
+# Grupo #2
+- Javier Gonzaga
+- Jhon Munarco
+- Francisco Teran
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.0.3.
 
 ## Development server
